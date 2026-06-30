@@ -1,0 +1,71 @@
+# עוזי ביז — Generative Engine Optimization Map
+
+> Uzi Biz is a business services brand focused on client acquisition through a contact/lead generation landing page. The existing contact page at uz-biz.com/contact/ serves as the design and content reference for the new landing page.
+
+---
+
+## Pages
+
+### בית
+https://-4ff10e79.zappy5.app
+הפוך גולשים ללקוחות עם דפי נחיתה חכמים מבית עוזי ביז. אנחנו בונים עבורך אתר תדמית או חנות אינטרנטית שמביאה תוצאות. השאר פרטים עכשיו ונתחיל לעבוד על הצמיחה שלך.
+
+### תודה שפניתם | עוזי ביז
+https://-4ff10e79.zappy5.app/thank-you
+עוזי ביז - תודה שפניתם | עוזי ביז
+
+## Legal & Policy
+
+### Privacy Policy
+https://-4ff10e79.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-4ff10e79.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-4ff10e79.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-4ff10e79.zappy5.app
+- Endpoint: https://-4ff10e79.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About עוזי ביז
+Uzi Biz is a business services brand focused on client acquisition through a contact/lead generation landing page. The existing contact page at uz-biz.com/contact/ serves as the design and content reference for the new landing page.
+
+## Target Audience
+- מנהלי עסקים קטנים
+- מייסדי סטארט-אפ
+- פרילנסרים ויועצים
+- מנהלי ארגונים ללא כוונת רווח
+
+## Industry
+Business Services
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-4ff10e79.zappy5.app/sitemap.xml
+- Robots: https://-4ff10e79.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-4ff10e79.zappy5.app/llms-full.txt
